@@ -84,6 +84,25 @@ Separate from the holiday-homes retainer invoicing.
   If the business is now a US entity, need new US legal name, US address, and EIN to
   update the invoice header. Not yet provided — keep old block until then.
 
+## Finance tracker (Google Sheet)
+- Live Google Sheet "BNB Pro — Invoicing Tracker":
+  https://docs.google.com/spreadsheets/d/1EzETawgTf5-ppcCzJv4JAGc1q5VtgY4lAmj5MKJ3LOY/edit
+- This is VirtuPro's complete monthly finance tracker, not just invoicing.
+- Tabs: "Active Clients" (master) + one tab per month (e.g. "October 2026").
+- Monthly-tab layout (template to replicate each month):
+  1. Client payments / income table (rows 1-10): Client, Invoice #, Invoice Date,
+     Service Period, Units, Currency, Subtotal, Tax, Total, Status, Invoice PDF,
+     Paid Date, Notes. One row per client; I fill units/amounts/PDF link on issue.
+  2. SALARIES section (input rows + AED/USD subtotals).
+  3. FIXED COSTS & RENT section (input rows + AED/USD subtotals).
+  4. PETTY / VARIABLE EXPENSES section (input rows + AED/USD subtotals).
+  5. MONTHLY SUMMARY (P&L): Client income, Salaries, Fixed costs, Petty, Total
+     expenses, Net (income - expenses) — split AED and USD (no FX blend).
+- Currencies kept separate (USD + AED) until an FX rate is agreed.
+- User supplies the salary sheet and expense figures each month.
+- NOTE: this is a monthly P&L / net-position view, not a formal balance sheet.
+- Invoice PDFs: to be stored in a Google Drive folder and linked from the PDF column.
+
 ## Template
 - **House standard = the Noya teal template (OS241 style)** for ALL clients.
   (US Letter, Helvetica, teal #0E909A accents, header band #D6ECEE, reportlab.)
