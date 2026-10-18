@@ -44,7 +44,9 @@ This session/repo is the hub for all client invoicing.
 
 ## Business line — Claims Management
 Separate from the holiday-homes retainer invoicing.
-- **Billing model: flat 20% of whatever we earn/recover for the client** (success fee).
+- **Billing model: flat 30% of whatever we earn/recover for the client** (success fee).
+  (Agreed rate corrected from 20% to 30% on 2026-10-18; One Stone's first invoice had
+  been billed at 20% and ONE001 collects the 10% correction plus new commission.)
 - NO fixed retainer, NO minimum slab (the AED 3,000 slab does NOT apply here), NO VAT
   assumption until confirmed, and NO fixed invoice date — issued **ad hoc, only when the
   user says so**. User provides the recovered amount; invoice bills 20% of it.
@@ -52,7 +54,7 @@ Separate from the holiday-homes retainer invoicing.
 ### Claims clients
 | Client | Contact | Phone | Fee |
 |---|---|---|---|
-| One Stone | Ali Raza | +1 (832) 398-4597 | 20% of amount earned/recovered |
+| One Stone | Ali Raza | +1 (832) 398-4597 | 30% of amount earned/recovered |
 
 ## Invoice numbering policy (IN-HOUSE — resets old OS scheme)
 - Old external "OS###" numbering is retired. We run our own per-client prefixes, each

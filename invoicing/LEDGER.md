@@ -30,6 +30,17 @@ Per-client sequence. Min AED 3,000/month before VAT (waived month 1). Cycle now 
 | OS241 | 15 Sep–7 Oct 2026 (22d) | 09/30/2026 | 2,200.00 | 110.00 | AED 2,310.00 | Issued (prorated min) | — |
 | OS242 | 7 Oct–7 Nov 2026 | — | 3,000.00 | 150.00 | AED 3,150.00 | Draft (not issued) | — |
 
+## One Stone (Claims Management) — USD, 30% success fee, ad hoc
+| Invoice | Period | Issue date | Subtotal | Tax | Total | Status | Paid date |
+|---|---|---|---|---|---|---|---|
+| ONE001 | AirCover claims to date (11 claims) | 10/18/2026 | 1,836.15 | 0.00 | USD 1,836.15 | Issued | — |
+
+> ONE001 = balance after 30%/20% correction. Total recovered $9,810.50 across 11 won
+> Airbnb damage claims; agreed commission 30% = $2,943.15; $1,107.00 already paid on the
+> first (20%-billed) invoice; ONE001 collects the remaining $1,836.15 as two lines
+> (10% correction on the $5,535 batch = $553.50; 30% on $4,275.50 newly recovered = $1,282.65).
+> PDF: invoicing/invoices/ONE001.pdf
+
 ## Cash-flow snapshot (outstanding = Issued & unpaid)
 Payment status not yet provided for any invoice — all Issued invoices are currently
 treated as Outstanding. Update "Paid date" as payments arrive to keep this accurate.
