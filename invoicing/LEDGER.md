@@ -53,6 +53,7 @@ Status legend: Draft → Issued (generated) → Sent (to client) → Paid.
 | NOYA001 | Noya Living | 9 × 300 + 300 top-up | AED 3,000.00 | Issued | — |
 | MKB001 | MKB Living | 14 × 300 | AED 4,200.00 | **Sent** (2026-10-19) | — |
 | ONE001 | One Stone (claims) | 30% success fee balance | USD 1,836.15 | **Sent** (2026-10-19, old-entity header) | — |
+| STC001 | StayC Group | StayC 3,000 + Organisation 2,568 + A Stay 2,640 | USD 8,208.00 (EUR 7,312.19 @ 0.890861) | Issued | — |
 
 > NOYA001 + KHH001 reissued under new US entity VirtuPro LLC. Others still on old
 > entity header pending reissue. Noya extra listing work pending (details tonight).

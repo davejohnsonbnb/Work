@@ -119,7 +119,9 @@ Separate from the holiday-homes retainer invoicing.
 - Address: Soenenspark 1, 9051 Gent, Belgium · VAT BE0792754175
 - Currency: **USD only** (no AED / no FX line)
 - Tax: Zero Rated (VAT @ 0%)
-- Typical lines: "E-Services — StayC" (3,000.00) and "E-Services — StayC Organisation" (2,568.00)
+- Typical lines: "E-Services — StayC" (3,000.00), "E-Services — StayC Organisation" (2,568.00),
+  and "E-Services — A Stay" (2,640.00, added Oct 2026). Full monthly total USD 8,208.00.
+- Show total in USD (primary) and EUR (reference) at a fetched USD→EUR rate, dated on the invoice.
 - Per-unit rate when billed per unit: 12.00
 - Billing cycle: monthly, period "7 <month> to 7 <next month>"
 - Layout: HTML template (dark header band), rendered to A4 PDF via Chromium.
