@@ -2,12 +2,15 @@
 
 This session/repo is the hub for all client invoicing.
 
-## Issuer (fixed on every invoice)
-- B N B Pro Information Technology L.L.C
-- TRN: 104844103200003
-- 3 145 Office NO, Dubai, Dubai 25314
-- +13322522342 · ahmed@virtupro.io · www.virtupro.io
-- Title: "Tax Invoice" · Terms: "Due on receipt"
+## Issuer (fixed on every invoice) — UPDATED 2026-10-19 to US entity
+- VirtuPro LLC
+- 5900 Balcones Drive, Suite 165, Austin, TX 78731, United States
+- +1 332 252 2342 · ahmed@virtupro.io · www.virtupro.io
+- No UAE TRN / Dubai address (old entity "B N B Pro Information Technology L.L.C"
+  with TRN 104844103200003 retired from the issuer block).
+- Title: "Invoice" (US entity, no VAT) · Terms: "Due on receipt"
+- Reissuing existing OS/2026 invoices under the new entity one by one on request
+  (do NOT bulk-redo). NOYA001 reissued 2026-10-19.
 
 ## Billing dates (active clients)
 | Client | Billing date / cycle |
