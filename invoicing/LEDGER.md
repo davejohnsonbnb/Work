@@ -41,6 +41,22 @@ Per-client sequence. Min AED 3,000/month before VAT (waived month 1). Cycle now 
 > (10% correction on the $5,535 batch = $553.50; 30% on $4,275.50 newly recovered = $1,282.65).
 > PDF: invoicing/invoices/ONE001.pdf
 
+## October 2026 — in-house invoices (VirtuPro LLC)
+Status legend: Draft → Issued (generated) → Sent (to client) → Paid.
+| Invoice | Client | Basis | Total | Status | Paid date |
+|---|---|---|---|---|---|
+| KHH001 | Kensington | Flat (up to 80 units) | AED 6,000.00 | **Sent** (2026-10-19) | — |
+| RV001 | Royal Vista | 35 × 200 (tier) | AED 7,000.00 | Issued | — |
+| BBH001 | Blue Breeze | 7 × 250 + 1,250 top-up | AED 3,000.00 | Issued | — |
+| IST001 | Elite Nest (The IST Company) | 10 × 300 | AED 3,000.00 | Issued | — |
+| UTX001 | Utopix | 9 × 300 + 300 top-up | AED 3,000.00 | Issued | — |
+| NOYA001 | Noya Living | 9 × 300 + 300 top-up | AED 3,000.00 | Issued | — |
+| MKB001 | MKB Living | 14 × 300 | AED 4,200.00 | Issued | — |
+| ONE001 | One Stone (claims) | 30% success fee balance | USD 1,836.15 | Issued | — |
+
+> NOYA001 + KHH001 reissued under new US entity VirtuPro LLC. Others still on old
+> entity header pending reissue. Noya extra listing work pending (details tonight).
+
 ## Cash-flow snapshot (outstanding = Issued & unpaid)
 Payment status not yet provided for any invoice — all Issued invoices are currently
 treated as Outstanding. Update "Paid date" as payments arrive to keep this accurate.
