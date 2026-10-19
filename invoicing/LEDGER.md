@@ -51,7 +51,7 @@ Status legend: Draft → Issued (generated) → Sent (to client) → Paid.
 | IST001 | Elite Nest (The IST Company) | 10 × 300 | AED 3,000.00 | **Sent** (2026-10-19) | — |
 | UTX001 | Utopix | 9 × 300 + 300 top-up | AED 3,000.00 | Issued | — |
 | NOYA001 | Noya Living | 9 × 300 + 300 top-up | AED 3,000.00 | Issued | — |
-| MKB001 | MKB Living | 14 × 300 | AED 4,200.00 | Issued | — |
+| MKB001 | MKB Living | 14 × 300 | AED 4,200.00 | **Sent** (2026-10-19) | — |
 | ONE001 | One Stone (claims) | 30% success fee balance | USD 1,836.15 | Issued | — |
 
 > NOYA001 + KHH001 reissued under new US entity VirtuPro LLC. Others still on old
