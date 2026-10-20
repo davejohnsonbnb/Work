@@ -50,10 +50,15 @@ Status legend: Draft → Issued (generated) → Sent (to client) → Paid.
 | BBH001 | Blue Breeze | 7 × 250 + 1,250 top-up | AED 3,000.00 | **Sent** (2026-10-19) | — |
 | IST001 | Elite Nest (The IST Company) | 10 × 300 | AED 3,000.00 | **Sent** (2026-10-19) | — |
 | UTX001 | Utopix | 9 × 300 + 300 top-up | AED 3,000.00 | Issued | — |
-| NOYA001 | Noya Living | 9 × 300 + 300 top-up | AED 3,000.00 | Issued | — |
-| MKB001 | MKB Living | 14 × 300 | AED 4,200.00 | **Sent** (2026-10-19) | — |
-| ONE001 | One Stone (claims) | 30% success fee balance | USD 1,836.15 | **Sent** (2026-10-19, old-entity header) | — |
-| STC001 | StayC Group | StayC 3,000 + Organisation 2,568 + A Stay 2,640 | USD 8,208.00 (EUR 7,312.19 @ 0.890861) | Issued | — |
+| NOYA001 | Noya Living | 9×300 + 300 top-up + image editing 550.88 + extra 550.88 | AED 4,101.76 | **Sent** (2026-10-20) | — |
+| MKB001 | MKB Living | 14 × 300 | AED 4,200.00 | **Paid** (2026-10-20) | 2026-10-20 |
+| ONE001 | One Stone (claims) | 30% success fee balance | USD 1,836.15 | **Paid** (2026-10-20) | 2026-10-20 |
+| STC001 | StayC Group | StayC 3,000 + Organisation 2,568 + A Stay 2,640 | USD 8,208.00 (EUR 7,312.19 @ 0.890861) | **Sent** (2026-10-20) | — |
+
+> MKB001 CLEARED: paid as AED 1,220 via Wise + USD 816 auto to legacy account
+> (confirm vs the 4,200 invoice; from next month disconnect auto-charge, bill full via
+> Wise). NOYA001 reissued with extra lines: image editing 5×$30 and extra service 3×$50,
+> both converted at 1 USD = 3.6725 AED.
 
 > NOYA001 + KHH001 reissued under new US entity VirtuPro LLC. Others still on old
 > entity header pending reissue. Noya extra listing work pending (details tonight).
