@@ -47,7 +47,7 @@ Status legend: Draft → Issued (generated) → Sent (to client) → Paid.
 |---|---|---|---|---|---|
 | KHH001 | Kensington | Flat (up to 80 units) | AED 6,000.00 | **Sent** (2026-10-19) | — |
 | RV001 | Royal Vista | 35 × 200 (tier) | AED 7,000.00 | **Sent** (2026-10-19) | — |
-| BBH001 | Blue Breeze | 7 × 250 + 1,250 top-up | AED 3,000.00 | **Sent** (2026-10-19) | — |
+| BBH001 | Blue Breeze | 7×250 + 1,250 top-up − 265 fine credit | AED 2,735.00 | **Sent** (2026-10-19) | — |
 | IST001 | Elite Nest (The IST Company) | 10 × 300 | AED 3,000.00 | **Paid** (2026-10-27) | 2026-10-27 |
 | UTX001 | Utopix | 9 × 300 + 300 top-up | AED 3,000.00 | Issued | — |
 | NOYA001 | Noya Living | 9×300 + 300 top-up + image editing 550.88 + extra 550.88 | AED 4,101.76 | **Sent** (2026-10-20) | — |
