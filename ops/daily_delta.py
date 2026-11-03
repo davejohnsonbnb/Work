@@ -38,6 +38,19 @@ def received_amt(vals, hdr):
         v = amt(vals.get(clm, ('', ''))[0])
     return v or 0
 
+def guest_name(vals, hdr):
+    """Guest-name column varies by tab (C on Guesty tabs, E on VP tabs); read the header."""
+    pr = [(x[0].strip().lower(), k) for k, x in hdr.items()]
+    col = next((k for tt, k in pr if 'guest' in tt or tt == 'name'), None)
+    if col and vals.get(col, ('', ''))[0].strip():
+        return vals[col][0].strip()
+    # fallback: first non-numeric text cell after column A
+    for c in sorted(vals):
+        t = vals[c][0].strip()
+        if c != 'A' and t and not re.fullmatch(r'-?\d+\.?\d*', t):
+            return t
+    return '?'
+
 def run(vpx, inx, date, snap_path):
     base = json.load(open(snap_path))
     bvp = base['vp']
@@ -66,7 +79,7 @@ def run(vpx, inx, date, snap_path):
             added = [fp for fp in curfps if fp not in bfp]
             if added:
                 tot = sum(received_amt(curfps[fp], hdr) for fp in added)
-                names = ', '.join((curfps[fp].get('E', ('', ''))[0] or curfps[fp].get('C', ('', ''))[0] or '?')[:20] for fp in added)
+                names = ', '.join(guest_name(curfps[fp], hdr)[:22] for fp in added)
                 changed.append(f"{c}: +{len(added)} won, {tot:,.0f} AED ({names})")
     # Inter
     inter = analyze(inx)
