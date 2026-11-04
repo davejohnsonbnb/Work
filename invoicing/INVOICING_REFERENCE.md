@@ -162,7 +162,7 @@ All AED / UAE unless noted. "Per unit" = monthly per-unit cost.
 |---|---|---|---|
 | ~~Authors Vacation Rental~~ **(INACTIVE — no longer a client)** | — | AED 300 | — |
 | Royal Vista Vacations Homes Co L.L.C | Dubai Business Bay, Churchill Tower, Office 508, Dubai, UAE | AED 300 (AED 200 if ≥ 20 listings) | 104892061300003 |
-| BLUE BREEZE HOLIDAY HOMES L.L.C | Mashreq Globe HQ, Umminiyat Street, Downtown Burj Khalifa Community, Dubai | AED 250 | 104611129800003 |
+| BLUE BREEZE HOLIDAY HOMES L.L.C | Mashreq Globe HQ, Umminiyat Street, Downtown Burj Khalifa Community, Dubai | AED 300 (up to 10 units); NO min slab (waived) | 104611129800003 |
 | Kensington Holiday Homes Rental LLC | Al Wasl, Dubai | **Flat AED 6,000 for up to 80 units** (deal); min slab 3,000 otherwise | — |
 | MKB LIVING Holiday Homes L.L.C. | Al Khabeesi bldg, plot 128-246-9, Dubai, UAE | AED 300 | — |
 | ~~SKY VACATION HOME RENTAL L.L.C~~ **(INACTIVE — no longer a client)** | — | AED 300 (historic; OS249 used 180 / 90) | — |
