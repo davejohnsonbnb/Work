@@ -18,9 +18,18 @@ def amt(s):
     m = re.search(r'-?\d+\.?\d*', s)
     return float(m.group()) if m else None
 
-def fingerprint(vals):
-    """Stable per-row key: all non-empty cell texts in column order."""
-    return '|'.join(x[0].strip() for c, x in sorted(vals.items()) if x[0].strip())
+def identity(vals, hdr):
+    """Stable per-claim key: non-empty cells EXCLUDING status/amount columns.
+    A won row whose status flips (Filed->Closed) or whose received amount is
+    corrected keeps the same identity, so it is not re-counted as a new win.
+    A yellow/uncolored row that flips green has an identity not previously in the
+    won set, so it correctly shows as a new win."""
+    skip = set()
+    for k, x in hdr.items():
+        t = x[0].strip().lower()
+        if 'status' in t or 'reciev' in t or 'receiv' in t or 'amount' in t:
+            skip.add(k)
+    return '|'.join(x[0].strip() for c, x in sorted(vals.items()) if c not in skip and x[0].strip())
 
 def won_rows(tab, rows):
     """List of (rownum, vals) counted as won for this tab."""
@@ -64,7 +73,7 @@ def run(vpx, inx, date, snap_path):
         c = tab.replace(' - Claim Tracker', '').strip()
         wr = won_rows(tab, rows)
         hdr = rows[0][1]
-        curfps = {fingerprint(v): v for _, v in wr}
+        curfps = {identity(v, hdr): v for _, v in wr}
         newvp[c] = {'won': len(wr), 'fp': sorted(curfps.keys())}
         bentry = bvp.get(c)
         if bentry is None:
@@ -84,6 +93,7 @@ def run(vpx, inx, date, snap_path):
     # Inter
     inter = analyze(inx)
     rows = inter.get('Claims') or list(inter.values())[0]
+    ihdr = rows[0][1]
     st = {'green': 0, 'yellow': 0, 'red': 0, 'none': 0}
     tot = 0
     gfps = {}
@@ -92,7 +102,7 @@ def run(vpx, inx, date, snap_path):
         st[col] = st.get(col, 0) + 1
         if col == 'green':
             tot += amt(v.get('K', ('', ''))[0]) or 0
-            gfps[fingerprint(v)] = v
+            gfps[identity(v, ihdr)] = v
     bifp = set(bi.get('fp') or [])
     dwon = st['green'] - bi['won']
     print("VP vs %s: %s" % (base['date'], changed if changed else "NONE"))
