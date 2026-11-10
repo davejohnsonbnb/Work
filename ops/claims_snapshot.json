@@ -1,5 +1,5 @@
 {
- "date": "2026-11-09",
+ "date": "2026-11-10",
  "vp": {
   "Authors": {
    "won": 28,
@@ -128,11 +128,12 @@
    ]
   },
   "Utopix": {
-   "won": 20,
+   "won": 21,
    "fp": [
     "1203.0|OPS|Adam|(Check-Out Date: 12.03.2026)|broken bedside lamp|Link for the lamp is shared in the group",
     "1206.0|Cleaning Group|HM8ZH9R3KW|Sun Xia|Sep 3 \u2013 Oct 7|Saucepan Damage, cigarette smell (We were unable to rent out the apartment due to cig smell, proof in Cleaning Group), Damaged Freezer, Damaged curtain",
     "1206.0|Cleaning group|HMTRAAP5CE|Sulaiman Maihemuti|18 - 28 Jun|Stained Balcony Chair|Hussain",
+    "2405.0|Cleaning Group|HMCKZFJCRJ|Berat Can|Oct 9\u2009\u2013\u200918|Unauthorized LCO of 6 hours and deep cleaning required (vidi leakage, mattress stains, smoking)",
     "2405.0|Cleaning Group|HMQWW8TTDH|\u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u0430 \u0420\u0430\u0434\u0447\u0435\u043d\u043a\u043e|Jul 12\u2009\u2013\u200914|Broken White Boucle Accent Chair",
     "2405.0|Cleaning group|HM54R88WWZ|Prashant Sarviya|17 - 22 June|Stained Sofa",
     "2405.0|Cleaning group|HMK8M2K3W8|Faceby Elisa|Jun 26\u2009-\u200930|Party, excessive cleaning, unauthorized late checkout, broken sofa bed",
@@ -211,7 +212,7 @@
    "fp": []
   },
   "Royal Vista": {
-   "won": 141,
+   "won": 143,
    "fp": [
     "1004.0|AIRCOVER|Daniel Siman|46191.0|Smoking - Carpet Burn|46192.0",
     "1004.0|AIRCOVER|Mohanad KOZAi|46225.0|Smoking|46229.0",
@@ -334,6 +335,7 @@
     "5106.0|AIRCOVER|Alhasani Moosa|46229.0|Smoking|46232.0",
     "5106.0|AIRCOVER|Alhur Alsuwaidi|46312.0|Smoking|46315.0",
     "5106.0|AIRCOVER|Alzaabi Ibrahim|46248.0|Smoking|46248.0",
+    "5106.0|AIRCOVER|Arsak Akcam|46335.0|Smoking|46335.0",
     "5106.0|AIRCOVER|Athar Jameel Arain|46199.0|Smoking, Access card|46204.0",
     "5106.0|AIRCOVER|Awadh Mohamed Binrasheed Alhemeiri|46188.0|Shower Set Broken|46192.0",
     "5106.0|AIRCOVER|Ercilio Id\u00e1lio Chemane|46181.0|Smoke Odor - Carpet & Cushion Burn|46183.0",
@@ -353,7 +355,8 @@
     "6108.0|AIRCOVER|Kai Karabaev|46166.0|Smoking|46166.0",
     "6108.0|AIRCOVER|Rakan Aljuhani|46227.0|Smoking|46229.0",
     "6108.0|AIRCOVER|Saleha Alameri Alameri|46261.0|Carpet burn|46262.0",
-    "6108.0|AIRCOVER|Saud Alkhudhair|46233.0|Smoking|46238.0"
+    "6108.0|AIRCOVER|Saud Alkhudhair|46233.0|Smoking|46238.0",
+    "6108.0|AIRCOVER|Shaheen Alhammadi|46334.0|Bedside Table Lamp|46335.0"
    ]
   },
   "EliteNest": {
