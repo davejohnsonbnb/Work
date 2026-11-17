@@ -1,5 +1,5 @@
 {
- "date": "2026-11-16",
+ "date": "2026-11-17",
  "vp": {
   "Authors": {
    "won": 28,
@@ -132,7 +132,7 @@
    ]
   },
   "Utopix": {
-   "won": 21,
+   "won": 22,
    "fp": [
     "1203.0|OPS|Adam|(Check-Out Date: 12.03.2026)|broken bedside lamp|Link for the lamp is shared in the group",
     "1206.0|Cleaning Group|HM8ZH9R3KW|Sun Xia|Sep 3 \u2013 Oct 7|Saucepan Damage, cigarette smell (We were unable to rent out the apartment due to cig smell, proof in Cleaning Group), Damaged Freezer, Damaged curtain",
@@ -153,6 +153,7 @@
     "804.0|Cleaning Group|HM3FCYFBNT|Dr Fady Takla|Sep 19 - 27|Shower head damage and door handle damage|Hussain",
     "804.0|Cleaning Group|HMNHYYQHMX|Nitn Soni|Jul 5\u2009\u2013\u200911|ceramic iridescent toothbrush holder as seen in the picture",
     "804.0|Cleaning group|HMHWFQYBKD|Jeremy|Apr 29\u2009\u2013\u2009May 15|Stained pillows, damaged utensils, damaged clothing rack",
+    "821.0|Cleaning Group|HMCC2Q2EJE|Pauline Eugene Diasi|24 - 26 Oct|duvet, mattress, towels stain",
     "821.0|Cleaning group|HMBCXFCKFF|Nilu Sharma|26-31 May|Broken Sofa Bed|Cleaning group|HMBCXFCKFF|Nilu Sharma|26-31 May|Broken Sofa Bed|7560.0|Involved bnb, additional proofs sent|Hussain",
     "821.0|OPS|Rishab Rishab|Apr 5 - 11|Hand Towel / Bath Mat|INVOICE IN OPS"
    ]
@@ -216,7 +217,7 @@
    "fp": []
   },
   "Royal Vista": {
-   "won": 144,
+   "won": 145,
    "fp": [
     "1004.0|AIRCOVER|Daniel Siman|46191.0|Smoking - Carpet Burn|46192.0",
     "1004.0|AIRCOVER|Mohanad KOZAi|46225.0|Smoking|46229.0",
@@ -271,6 +272,7 @@
     "2510.0|AIRCOVER|Jessica More|46207.0|Smoking|46210.0",
     "2510.0|AIRCOVER|Mubarak Alhajraf|46188.0|Smoke Odor - Carpet Burn|46192.0",
     "2510.0|AIRCOVER|Philip Schacksen|46317.0|Smoking|46317.0",
+    "2510.0|AIRCOVER|Rodolph Kazmouz|46342.0|Smoking|46343.0",
     "2510.0|AIRCOVER|Sharan Dev|46173.0|Smoking|46177.0",
     "2510.0|AIRCOVER|\u0645\u0627\u062c\u062f \u0641\u0647\u062f|46234.0|Smoking|46238.0",
     "2601.0|AIRCOVER|Laura Schepens|46312.0|Smoking - Bean Bag Damage - Vacuum Cleaner Broken|46315.0",
