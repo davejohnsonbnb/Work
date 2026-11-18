@@ -1,5 +1,5 @@
 {
- "date": "2026-11-17",
+ "date": "2026-11-18",
  "vp": {
   "Authors": {
    "won": 28,
@@ -132,7 +132,7 @@
    ]
   },
   "Utopix": {
-   "won": 22,
+   "won": 23,
    "fp": [
     "1203.0|OPS|Adam|(Check-Out Date: 12.03.2026)|broken bedside lamp|Link for the lamp is shared in the group",
     "1206.0|Cleaning Group|HM8ZH9R3KW|Sun Xia|Sep 3 \u2013 Oct 7|Saucepan Damage, cigarette smell (We were unable to rent out the apartment due to cig smell, proof in Cleaning Group), Damaged Freezer, Damaged curtain",
@@ -143,6 +143,7 @@
     "2405.0|Cleaning group|HMK8M2K3W8|Faceby Elisa|Jun 26\u2009-\u200930|Party, excessive cleaning, unauthorized late checkout, broken sofa bed",
     "2405.0|OPS|HMXYQD29ZQ|Noah Morris|4 - 18 May|Access Card",
     "2405.0|Shine on|HMQYJ5ADSD|24 Feb - 2 Mar|Access Card",
+    "2902.0|Ops|HM9B8T9XE3|Rizwan Akbar|Oct 26\u2009\u2013\u200928|Parking access card missing|Iqra",
     "2902.0|ShineOn|Satyaki Majumdar|April 4-20|missing 3 pillow cases, 1 hand towel and 1 bath mat stain",
     "311.0|Cleaning ShineOn website|HME9Q4N9EE|Zayed Alkaabi|1 - 3 Aug",
     "311.0|OPS|John Chambers|Apr 12-21|1 access card missing|INVOICE IN OPS",
@@ -217,7 +218,7 @@
    "fp": []
   },
   "Royal Vista": {
-   "won": 145,
+   "won": 146,
    "fp": [
     "1004.0|AIRCOVER|Daniel Siman|46191.0|Smoking - Carpet Burn|46192.0",
     "1004.0|AIRCOVER|Mohanad KOZAi|46225.0|Smoking|46229.0",
@@ -356,6 +357,7 @@
     "5506.0|AIRCOVER|Seif Eddine Ghebouli|46188.0|Smoke Odor - Carpet Burn|46189.0",
     "5506.0|AIRCOVER|Selam Mohammed|46238.0|Smoking|46242.0",
     "5801.0|AIRCOVER|Angela Kersten|46228.0|Smoking|46232.0",
+    "5801.0|AIRCOVER|Christine Adams|46342.0|Toaster - Bath Towel|46343.0",
     "5801.0|AIRCOVER|Sarah amellal|46165.0|Smoking|46174.0",
     "6-406|AIRCOVER|Abby Parker|46226.0|Smoking|46229.0",
     "6108.0|AIRCOVER|Danah Alhajri|46273.0|Smoking|46273.0",
