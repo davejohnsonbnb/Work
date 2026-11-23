@@ -1,5 +1,5 @@
 {
- "date": "2026-11-22",
+ "date": "2026-11-23",
  "vp": {
   "Authors": {
    "won": 28,
@@ -218,9 +218,10 @@
    "fp": []
   },
   "Royal Vista": {
-   "won": 146,
+   "won": 148,
    "fp": [
     "1004.0|AIRCOVER|Daniel Siman|46191.0|Smoking - Carpet Burn|46192.0",
+    "1004.0|AIRCOVER|Mohamed Haoua|46346.0|TV Unit|46349.0",
     "1004.0|AIRCOVER|Mohanad KOZAi|46225.0|Smoking|46229.0",
     "1004.0|AIRCOVER|Saad Elibrahimi|46260.0|Smoking|46261.0",
     "1004.0|AIRCOVER|Sanaa Al Tamsheh|46177.0|Sofa and balcony chair stain|46177.0",
@@ -250,6 +251,7 @@
     "1512.0|AIRCOVER|\u0639\u0644\u064a \u0627\u0644\u062a\u0645\u064a\u0645\u064a|46240.0|Smoking|46242.0",
     "1602.0|AIRCOVER|Mohammed Abderraouf Malouadjmi|46333.0|Smoking - Access Card - Dining Chair|46333.0",
     "1801.0|AIRCOVER|Abdulaziz Alghamdi|46286.0|Smoking|46287.0",
+    "1801.0|AIRCOVER|Arvydas Strankauskas|46347.0|Smoking|46349.0",
     "1801.0|AIRCOVER|Fadiah Khan|46245.0|Smoking, sofa upholstery|46247.0",
     "1801.0|AIRCOVER|Haider Ali|46201.0|Broken Fridge|46201.0",
     "1801.0|AIRCOVER|Hazzaa Almulla|46187.0|Broken Bed - Sofa Damage - Stain|46190.0",
