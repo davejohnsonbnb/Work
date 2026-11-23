@@ -1,27 +1,22 @@
 {
   "permissions": {
     "allow": [
-      "mcp__Google_Sheets__get_spreadsheet",
-      "mcp__Google_Sheets__get_values",
-      "mcp__Google_Sheets__update_values",
-      "mcp__Google_Sheets__update_spreadsheet",
-      "mcp__Google_Sheets__append_values",
-      "mcp__Google_Drive__create_file",
-      "mcp__Google_Drive__update_file",
-      "mcp__Google_Drive__search_files",
-      "mcp__Google_Drive__read_file_content",
-      "Bash(git add:*)",
-      "Bash(git commit:*)",
-      "Bash(git push:*)",
-      "Bash(git status:*)",
-      "Bash(git fetch:*)",
-      "Bash(git pull:*)",
+      "mcp__Google_Sheets",
+      "mcp__Google_Drive",
+      "Bash(git:*)",
+      "Bash(cd:*)",
       "Bash(python3:*)",
+      "Bash(python3.13:*)",
       "Bash(pip install:*)",
       "Bash(pdftotext:*)",
       "Bash(cp:*)",
       "Bash(mkdir:*)",
-      "Bash(ls:*)"
+      "Bash(ls:*)",
+      "Bash(cat:*)",
+      "Bash(sed:*)",
+      "Bash(grep:*)",
+      "Edit(invoicing/**)",
+      "Write(invoicing/**)"
     ]
   }
 }
