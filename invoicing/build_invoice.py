@@ -112,7 +112,21 @@ def build(inv, outdir="."):
     tot.setStyle(TableStyle([("RIGHTPADDING", (0, 0), (-1, -1), 8),
                              ("TOPPADDING", (0, 1), (-1, 1), 8),
                              ("LINEABOVE", (0, 1), (-1, 1), 1, LINE)]))
-    s += [tot, Spacer(1, 20),
+    s += [tot]
+    pay = inv.get("payment")
+    if pay:
+        s += [Spacer(1, 18), Paragraph(pay.get("title", "PAYMENT DETAILS"),
+                                       P(8, "Helvetica-Bold", GREY)), Spacer(1, 4)]
+        prow = [[Paragraph(k, P(9, "Helvetica-Bold")), Paragraph(v, P(9))]
+                for k, v in pay["rows"]]
+        pt = Table(prow, colWidths=[1.5 * inch, 5.6 * inch])
+        pt.setStyle(TableStyle([("LEFTPADDING", (0, 0), (-1, -1), 0),
+                                ("TOPPADDING", (0, 0), (-1, -1), 1),
+                                ("BOTTOMPADDING", (0, 0), (-1, -1), 1)]))
+        s.append(pt)
+        if pay.get("note"):
+            s += [Spacer(1, 4), Paragraph(pay["note"], P(8.5, "Helvetica", GREY))]
+    s += [Spacer(1, 20),
           Paragraph(inv.get("footnote",
                             "VAT: under review — not applied on this invoice pending confirmation."),
                     P(8.5, "Helvetica", GREY))]

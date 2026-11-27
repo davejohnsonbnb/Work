@@ -1,0 +1,9 @@
+[{"no":"KHH002","client":"Kensington Holiday Homes Rental LLC","addr":["Al Wasl, Dubai, UAE"],
+  "date":"11/10/2026","ccy":"AED","period":"1 November 2026 to 30 November 2026",
+  "lines":[{"title":"E-Services","sub":"Property management (flat rate, up to 80 listings) — invoice for the period 1 November 2026 to 30 November 2026","amount":5000},
+           {"title":"Deduction","sub":"","amount":-300}],
+  "payment":{"title":"PAYMENT DETAILS — please remit to",
+    "rows":[["Account name","Blue Breeze Holiday Homes L.L.C"],["Bank","WIO Bank"],
+            ["Account number","9462712945"],["IBAN","AE540860000009462712945"],
+            ["SWIFT / BIC","WIOBAEADXX"],["Reference","KHH002"]],
+    "note":"Payments to this account are collected on behalf of VirtuPro LLC."}}]
