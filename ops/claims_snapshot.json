@@ -1,5 +1,5 @@
 {
- "date": "2026-11-26",
+ "date": "2026-11-27",
  "vp": {
   "Authors": {
    "won": 28,
@@ -35,7 +35,7 @@
    ]
   },
   "Kensington": {
-   "won": 92,
+   "won": 93,
    "fp": [
     "1015.0|Claims Group|Airbnb|HMQ4BBE5BR|Genito Antonio|46251.0|46268.0|broken lamp, bedsheet stain",
     "1203.0|Claims Group|Airbnb|HMMCSR5PZY|Ahmed Almarzooqi|46179.0|46183.0|TV unit damaged|0",
@@ -128,6 +128,7 @@
     "L317|Claims Group|Airbnb|HMDXSPDKM9|Andreas Voigt|46177.0|46193.0|one parking card And sofa stain|0",
     "L317|Claims Group|Airbnb|HMFJZYTWRQ|Anastasiia|46177.0|one building card is missing",
     "L317|Claims Group|Airbnb|HMNNAJTPR5|Khalid Altamimi|46157.0|46158.0|towel stain, smoking",
+    "L317|Claims Group|Airbnb|HMR9A23DBQ|Yash Lilani|46296.0|46328.0|flower pot, bath towels",
     "L317|Ops Group by Omar|HMM99XM92Z|Dec 23 \u2013 27|Lost Access Card|46025.0"
    ]
   },
