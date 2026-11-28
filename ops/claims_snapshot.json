@@ -1,5 +1,5 @@
 {
- "date": "2026-11-27",
+ "date": "2026-11-28",
  "vp": {
   "Authors": {
    "won": 28,
@@ -35,7 +35,7 @@
    ]
   },
   "Kensington": {
-   "won": 93,
+   "won": 95,
    "fp": [
     "1015.0|Claims Group|Airbnb|HMQ4BBE5BR|Genito Antonio|46251.0|46268.0|broken lamp, bedsheet stain",
     "1203.0|Claims Group|Airbnb|HMMCSR5PZY|Ahmed Almarzooqi|46179.0|46183.0|TV unit damaged|0",
@@ -44,6 +44,7 @@
     "1604.0|Claims Group|Airbnb|HMCMF8W94N|Yahay\u2019s group of 2|46168.0|46173.0|Stain on carpet looks like burn marks",
     "1604.0|Claims Group|Airbnb|HMNEC9ZZ3C|Alpha|May 5-7|2 Bath Towel and 1 hand Towel stain",
     "1611.0|Claims Group|Airbnb|HMFAH35A5W|Mataab\u2019s group of 4|46168.0|46172.0|towel stain",
+    "1705.0|Claims Group|Airbnb|HMNTRSKQKX|Melissa Mustafa|46330.0|46338.0|Sofa stain, towels stain",
     "1705.0|Claims Group|HMN5PMW5TZ|Feb 07 - Feb 15|4 Bath Towel, 3 Hand Towel, 2 Bath Mat|46082.0",
     "1708.0|Claims Group|Airbnb|HM4BMPS2B3|Heritier Shumbusho|46186.0|46200.0|Details in claim group|0",
     "1708.0|Claims Group|Airbnb|HMDCB22ZB4|Shafeek|46158.0|46159.0|Towel stain",
@@ -55,6 +56,7 @@
     "2403.0|Claims Group|Airbnb|HMWYDWXHZS|Ali Mohammed Mubarak Ruwaishe|46273.0|46275.0|cooking pot lid broken",
     "2501.0|Claims Group|Airbnb|HMMZ9BBSQK|Osama Ali|46179.0|46180.0|bath towel stain",
     "2501.0|Claims Group|Airbnb|HMSQPDK2Z4|Mohamed|46172.0|46173.0|Stained bedsheet",
+    "2506.0|Claims Group|Airbnb|HMZ3JADP5Y|Anika Bracovic|46330.0|46337.0|Sofa stain, towels stain",
     "2508.0|Claims Group|Airbnb|HM8QMWYJDH|Abdulrahman Alanazi|April 12 - 15|Access card missing and Coffee machine pod holder vanished",
     "2508.0|Claims Group|Airbnb|HME934FTZ8|Mustafa Khamis|April 10-12|Missing Access Card",
     "2605.0|Claims Group|Airbnb|HMK4XB3PEZ|Bhawna\u2019s group of 8|46169.0|46170.0|carpet sofa and table staine by guest, blood stain 1 duvet cover 1 bath towel",
@@ -133,7 +135,7 @@
    ]
   },
   "Utopix": {
-   "won": 25,
+   "won": 26,
    "fp": [
     "1203.0|OPS|Adam|(Check-Out Date: 12.03.2026)|broken bedside lamp|Link for the lamp is shared in the group",
     "1206.0|Cleaning Group|HM8ZH9R3KW|Sun Xia|Sep 3 \u2013 Oct 7|Saucepan Damage, cigarette smell (We were unable to rent out the apartment due to cig smell, proof in Cleaning Group), Damaged Freezer, Damaged curtain",
@@ -155,6 +157,7 @@
     "411.0|Cleaning Group|HMF948ZKWP|Rishan|Nov 8 \u2013 10|Distorted and damaged pillows and big damage on table ( table is sticky and damaged )|Hussain",
     "730.0|Cleaning group|HMPCHWFEWB|Nadim Khan|9 - 22 June|Stained Sofa",
     "804.0|Cleaning Group|HM3FCYFBNT|Dr Fady Takla|Sep 19 - 27|Shower head damage and door handle damage|Hussain",
+    "804.0|Cleaning Group|HMCPQNFN2T|Rym Lakhal|Nov 6 - 12|stained on carpet and kitchen sink",
     "804.0|Cleaning Group|HMNHYYQHMX|Nitn Soni|Jul 5\u2009\u2013\u200911|ceramic iridescent toothbrush holder as seen in the picture",
     "804.0|Cleaning group|HMHWFQYBKD|Jeremy|Apr 29\u2009\u2013\u2009May 15|Stained pillows, damaged utensils, damaged clothing rack",
     "821.0|Cleaning Group|HMCC2Q2EJE|Pauline Eugene Diasi|24 - 26 Oct|duvet, mattress, towels stain",
@@ -221,7 +224,7 @@
    "fp": []
   },
   "Royal Vista": {
-   "won": 149,
+   "won": 151,
    "fp": [
     "1004.0|AIRCOVER|Daniel Siman|46191.0|Smoking - Carpet Burn|46192.0",
     "1004.0|AIRCOVER|Mohamed Haoua|46346.0|TV Unit|46349.0",
@@ -253,6 +256,7 @@
     "1512.0|AIRCOVER|Jishin Vm|46169.0|Smoking, Carpet and Curtain damage|46174.0",
     "1512.0|AIRCOVER|\u0639\u0644\u064a \u0627\u0644\u062a\u0645\u064a\u0645\u064a|46240.0|Smoking|46242.0",
     "1602.0|AIRCOVER|Mohammed Abderraouf Malouadjmi|46333.0|Smoking - Access Card - Dining Chair|46333.0",
+    "1801.0|AIRCOVER|46353.0|Dining Chair - Access Card|46354.0",
     "1801.0|AIRCOVER|Abdulaziz Alghamdi|46286.0|Smoking|46287.0",
     "1801.0|AIRCOVER|Arvydas Strankauskas|46347.0|Smoking|46349.0",
     "1801.0|AIRCOVER|Fadiah Khan|46245.0|Smoking, sofa upholstery|46247.0",
@@ -287,6 +291,7 @@
     "2605.0|AIRCOVER|Hani Hasan|46248.0|Smoking, pet mess|46248.0",
     "2605.0|AIRCOVER|Sagar Singh|46253.0|Smoking, Carpet cleaning|46255.0",
     "2605.0|AIRCOVER|Sandro Mendes Correia Mendes|46326.0|Smoking|46328.0",
+    "2609.0|AIRCOVER|Ali Aldarwish|46352.0|Carpet|46353.0",
     "2609.0|AIRCOVER|Ali EL SAMARAII|46132.0|Broken Dishwasher|46132.0",
     "2609.0|AIRCOVER|Ali EL SAMARAII|46162.0|Smoking|46165.0",
     "2609.0|AIRCOVER|Anita Yousaf|46322.0|Wall Panel Replacement|46323.0",
